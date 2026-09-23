@@ -1,0 +1,6 @@
+# Copy to brave.local to change this machine's value. Git-ignored.
+#
+# How big Brave's own UI (tabs, address bar, menus) is: 1 = Brave's normal size.
+# 0.8 takes the top bar from 137px to 108px. Pages keep their normal size, because
+# launch.sh sets the default zoom to the opposite amount (0.8 → 125%).
+BRAVE_UI_SCALE=0.8

@@ -1,0 +1,12 @@
+# OS / editor junk
+.DS_Store
+*.swp
+*.swo
+*~
+
+# Backups install.sh leaves next to what it replaced
+*.backup
+*.backup.*
+
+# This machine's UI scale (see brave.local.example)
+brave.local
