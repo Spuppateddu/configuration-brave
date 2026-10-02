@@ -40,7 +40,7 @@ what applies the smaller UI and the settings.
 | No Rewards, Wallet, VPN or Leo AI (and no buttons for them) | policy |
 | No password manager, autofill, P3A, stats ping, web discovery, metrics, prefetch | policy |
 | Brave never asks to be the default browser | policy |
-| Vimium, Bitwarden, Wappalyzer — installed and pinned | policy |
+| Vimium, Bitwarden, Wappalyzer (+ Keepa, opt-in) — installed and pinned | policy |
 | Vimium's hint/vomnibar colours, same as Firefox | `vimium-settings.json` |
 
 The keys are Brave's own shortcuts (brave://settings/system/shortcuts), so they
